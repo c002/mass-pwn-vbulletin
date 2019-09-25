@@ -1,5 +1,5 @@
 # Mass-Pwn-vBulletin
-Identify vulnerable vBulletin 5.0.0 - 5.5.4 instances using Shodan
+Identify vulnerable (RCE) vBulletin 5.0.0 - 5.5.4 instances using Shodan
 
 ![Bulletin](https://raw.githubusercontent.com/Frint0/mass-pwn-vbulletin/master/vbulletin.png)
 
