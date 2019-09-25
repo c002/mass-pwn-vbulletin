@@ -16,9 +16,7 @@ shodan download vbullet-80 'html:"vbulletin" port:80'
 shodan parse vbullet-80.json.gz --fields ip_str > vbullet-80
 ```
 
-*Make sure you have both `vbullet-443` and `vbullet-80` in the same directory as `vbulletin-scan.sh`*
-
-*By default I provide both host files with 1k hosts each for those of you without a Shodan API key 😄*
+*By default I provide both host files with 1k hosts each for those of you without a Shodan API key! 😄*
 
 
 ## Special Thanks
