@@ -19,7 +19,7 @@ shodan parse vbullet-80.json.gz --fields ip_str > vbullet-80
 *By default I provide both host files with 1k hosts each for those of you without a Shodan API key! 😄*
 
 
-## Special Thanks
+## Special Thanks:
 
 Thanks to the anonymous user who published this 0day over at https://seclists.org/fulldisclosure/2019/Sep/31
 
